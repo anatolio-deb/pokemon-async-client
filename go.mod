@@ -1,3 +1,3 @@
-module gitlab.atp-fivt.org/courses/homework-solutions/pokemon-async-client
+module https://github.com/anatolio-deb/pokemon-async-client
 
 go 1.19
