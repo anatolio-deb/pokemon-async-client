@@ -1,4 +1,4 @@
-package main
+package pokemonasyncclient
 
 import (
 	"encoding/json"
